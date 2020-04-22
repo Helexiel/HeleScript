@@ -1,1 +1,1 @@
-# HeleScript
+Ferramenta da Speatec, proibido kibar '-'
