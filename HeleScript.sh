@@ -89,7 +89,7 @@ case "$MENU_PRINCIPAL" in
      2)
        #Opcao do menu de bugar travas
           #Entrando na pasta e apagando o arquivo
-          cd;su -y;cd;cd /data/data/com.whatsapp/databases;rm -rf axolotl.db;cd;cd HeleV2
+          cd;su -y;cd;cd /data/data/com.whatsapp/databases;rm -rf axolotl.db;cd;cd HeleScript
           echo
           echo -e "\033[1;33mAPERTE ENTER PARA PROSSEGUIR:\033[0m"
           read SEGUE
@@ -222,7 +222,7 @@ E por último em\033[0m \033[1;32mdelay\033[0m\033[1;31m, Você coloca o tempo p
               echo -e "\033[1;36m =-=-=-=-@▄―⃥⃩ͦ᷵‾⃫ࣱࣨᷓᡁ⃪॑ͦ▰⃪╼ \033[0m\033[1;34mVocê acabou de baixar a weeman! uma das funcionalidades dela é hackear contas de facebook, caso tenha dúvidas de como usá-la, leia o manual.\033[0m"
               echo
               echo -e "\033[1;33mAPERTE ENTER PARA PROSSEGUIR:\033[0m"
-              read SEGUE;cd HeleV2
+              read SEGUE;cd HeleScript
            fi;;
      8)
      #Instalar Red Hawk
@@ -250,7 +250,7 @@ E por último em\033[0m \033[1;32mdelay\033[0m\033[1;31m, Você coloca o tempo p
               echo -e "\033[1;36m =-=-=-=-@▄―⃥⃩ͦ᷵‾⃫ࣱࣨᷓᡁ⃪॑ͦ▰⃪╼ \033[0m\033[1;34mVocê acabou de baixar uma script que serve pra scannear sites! Faça bom uso da mesma, e caso tenha dúvidas de como usá-la, leia o manual.\033[0m"
               echo
               echo -e "\033[1;33mAPERTE ENTER PARA PROSSEGUIR:\033[0m"
-              read SEGUE;cd HeleV2
+              read SEGUE;cd HeleScript
            fi;;
      9)
       #Instalar OSIF
@@ -278,7 +278,7 @@ E por último em\033[0m \033[1;32mdelay\033[0m\033[1;31m, Você coloca o tempo p
               echo -e "\033[1;36m =-=-=-=-@▄―⃥⃩ͦ᷵‾⃫ࣱࣨᷓᡁ⃪॑ͦ▰⃪╼ \033[0m\033[1;34mVocê acabou de baixar uma script que serve pra coletar informações de contas de Facebook! Faça bom uso da mesma, e caso tenha dúvidas de como usá-la, leia o manual.\033[0m"
               echo
               echo -e "\033[1;33mAPERTE ENTER PARA PROSSEGUIR:\033[0m"
-              read SEGUE;cd HeleV2
+              read SEGUE;cd HeleScript
            fi;;
      10)
       #Instalar metasploit
@@ -303,7 +303,7 @@ E por último em\033[0m \033[1;32mdelay\033[0m\033[1;31m, Você coloca o tempo p
 	 else
 				echo -e "\033[1;33mツ - Você será jogado ao menu principal da script! \033[0m"
 				sleep 3;clear
-	 fi;cd HeleV2;;
+	 fi;cd HeleScript;;
      11)
       #Instalar saycheese
          ####################################
@@ -330,7 +330,7 @@ E por último em\033[0m \033[1;32mdelay\033[0m\033[1;31m, Você coloca o tempo p
               echo -e "\033[1;36m =-=-=-=-@▄―⃥⃩ͦ᷵‾⃫ࣱࣨᷓᡁ⃪॑ͦ▰⃪╼ \033[0m\033[1;34mVocê acabou de baixar uma script que serve pra hackear câmera por link! Faça bom uso da mesma, e caso tenha dúvidas de como usá-la, leia o manual.\033[0m"
               echo
               echo -e "\033[1;33mAPERTE ENTER PARA PROSSEGUIR:\033[0m"
-              read SEGUE;cd HeleV2
+              read SEGUE;cd HeleScript
            fi;;
      12)
       #Instalar pip
@@ -364,7 +364,7 @@ E por último em\033[0m \033[1;32mdelay\033[0m\033[1;31m, Você coloca o tempo p
               echo -e "\033[1;36m =-=-=-=-@▄―⃥⃩ͦ᷵‾⃫ࣱࣨᷓᡁ⃪॑ͦ▰⃪╼ \033[0m\033[1;34mPronto, A script está pronta para uso!\033[0m"
               echo
               echo -e "\033[1;33mAPERTE ENTER PARA PROSSEGUIR:\033[0m"
-              read SEGUE;cd HeleV2
+              read SEGUE;cd HeleScript
            fi;;
      15)
       pkg install git;;
@@ -431,8 +431,6 @@ E por último em\033[0m \033[1;32mdelay\033[0m\033[1;31m, Você coloca o tempo p
           sleep 0.5
           echo -e '\033[1;34m     Enormity.\033[0m'
           sleep 0.5
-          echo -e '\033[1;34m     Clay.\033[0m'
-          echo
           echo -e '\033[1;31mツ - APERTE ENTER PARA PROSSEGUIR:\033[0m'
           read SEGUE;;
     31)
@@ -458,7 +456,6 @@ GRUPOS APOIADORES:\033[0m\033[1;34m
      Umbrella Corporation.
      Graysec BR.
      Enormity.
-     Clay
      Spartan Comunity.\033[0m
 \033[1;32mNOSSO SITE:\033[0m\033[1;34m
      https://speatechackingoficial.blogspot.com\033[0m
