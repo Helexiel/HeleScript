@@ -122,7 +122,7 @@
       #Apagando o arquivo temporario
          rm -rf ARQUIVO_VAZIO
       #Voltando pra pasta da script
-         cd;cd HeleV2
+         cd;cd HeleScript
       #Interagindo com o usuario 4
          clear
          GRAFICO_OU_MENU
